@@ -25,8 +25,8 @@ assume the data set to be not distorted by a credit score system. This
 means that no systematic screening of the costumers’ credit standing had
 been implemented until the date of data retrieval.
 
-The data set contains 12 attributes and 32581 observations, and its structure is resumed in Table below.
-The potential covariates describe both customers and loans characteristics. As we can see there are both numerical and categorical variables. Let us see a little more in details which are the levels of the categorical ones.
+The data set contains 12 attributes and 32581 observations, and its structure is resumed in Table below.
+The potential covariates describe both customers and loans characteristics. As we can see there are both numerical and categorical variables. Let us see a little more in details which are the levels of the categorical ones.
 
 ![](https://i.imgur.com/JPlfCww.jpg)
 
