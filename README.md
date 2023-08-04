@@ -27,7 +27,9 @@ been implemented until the date of data retrieval.
 
 The data set contains 12 attributes and 32581 observations, and its structure is resumed in Table below.
 The potential covariates describe both customers and loans characteristics. As we can see there are both numerical and categorical variables. Let us see a little more in details which are the levels of the categorical ones.
+
 ![](https://i.imgur.com/JPlfCww.jpg)
+
 * person_home_hownership has four levels: Mortage, Own, Rent and
 Others
 * loan_intent has six different levels: Debt consolidation, Education,
