@@ -1,5 +1,5 @@
 # Credit Risk Assessment Using Machine Learning Techniques
-Ensemble CREDIT SCORING method using LOGISTIC REGRESSION, SVM, DECISION TREE and XGBOOST algorithm 
+Ensemble CREDIT SCORING method using LOGISTIC REGRESSION, DECISION TREE and XGBOOST algorithm 
 
 Credit is a must in financial systems. For all financial institutions, whose role is to allocate credit, it is necessary to fully understand the risk behind it and to correctly decide who to give credit and who not. To do so, they make use of credit scoring, which is one of the most successful application of statistical and operational research modelling in finance.
 
